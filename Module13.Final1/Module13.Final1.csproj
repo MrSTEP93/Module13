@@ -5,4 +5,10 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="ConsoleHelper_50">
+      <HintPath>ConsoleHelper_50.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
